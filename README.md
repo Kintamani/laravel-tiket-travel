@@ -36,11 +36,11 @@ username : admin@mail.com
 password : admin    
 ```
 
-![admin](demo-admin.mov)
+![admin](demo-admin.gif)
 
 Role : penumpang
 ```bash
 username : penumpang@mail.com
 password : penumpang
 ```
-![penumpang](demo-penumpang.mov)
+![penumpang](demo-penumpang.gif)
